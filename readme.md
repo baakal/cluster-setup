@@ -1,0 +1,1 @@
+cluster-setup: will have prepare-vm.sh, generate-ssh-keys.sh, install-cluster-engine.sh, create-cluster-config.sh, deploy-cluster.sh, verify-cluster.sh, configure-ctl.sh, and cluster.yml for configuration
